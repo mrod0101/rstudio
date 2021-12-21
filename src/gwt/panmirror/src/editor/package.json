@@ -4,7 +4,7 @@
   "private": true,
   "license": "agpl-3.0",
   "dependencies": {
-    "@types/ace": "^0.0.43",
+    "@types/ace": "^0.0.47",
     "@types/clipboard": "^2.0.7",
     "@types/diff-match-patch": "^1.0.32",
     "@types/js-yaml": "^4.0.3",
