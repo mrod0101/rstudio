@@ -35,7 +35,7 @@
     "lodash.orderby": "^4.6.0",
     "lodash.uniqby": "^4.7.0",
     "orderedmap": "^1.0.0",
-    "pinyin": "^2.10.2",
+    "pinyin": "^4.0.0",
     "prosemirror-changeset": "^2.1.2",
     "prosemirror-commands": "^1.1.10",
     "prosemirror-dev-tools": "^2.1.1",
